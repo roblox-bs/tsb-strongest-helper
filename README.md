@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=50&pause=450&color=FF4500&center=true&vCenter=true&width=1200&height=140&lines=THE+STRONGEST+BATTLEGROUNDS+HACK+SCRIPT+2026;AUTO+COUNTER+%7C+ESP+%7C+AIMBOT;BECOME+THE+STRONGEST" alt="The Strongest Battlegrounds Hack Script 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d8967f9d-da84-4d0d-83df-7b1880b2862f" />
 
 <br/>
 
